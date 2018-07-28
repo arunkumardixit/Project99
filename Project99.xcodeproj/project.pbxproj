@@ -21,7 +21,6 @@
 		8F28F1122106FBA7009D4CD1 /* My_TestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F28F1112106FBA7009D4CD1 /* My_TestTests.swift */; };
 		8F28F11D2106FBA7009D4CD1 /* My_TestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F28F11C2106FBA7009D4CD1 /* My_TestUITests.swift */; };
 		8F28F12C2106FF61009D4CD1 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F28F12B2106FF61009D4CD1 /* NetworkManager.swift */; };
-		8FEB4FF8210C6C3500429DFE /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8FEB4FF7210C6C3400429DFE /* GoogleService-Info.plist */; };
 		8FEB4FFB210C719800429DFE /* Project99.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8FEB4FF9210C719800429DFE /* Project99.xcdatamodeld */; };
 		CD2E89E3440EB1987E5CD4AE /* Pods_Project99Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F3BD00B0391C6BFFACCCC43C /* Pods_Project99Tests.framework */; };
 		D7D922043095AF448094682D /* Pods_Project99.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3BFEAD973FA68D1111D247AF /* Pods_Project99.framework */; };
@@ -67,7 +66,6 @@
 		8F28F11C2106FBA7009D4CD1 /* My_TestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_TestUITests.swift; sourceTree = "<group>"; };
 		8F28F11E2106FBA7009D4CD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8F28F12B2106FF61009D4CD1 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
-		8FEB4FF7210C6C3400429DFE /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8FEB4FFA210C719800429DFE /* My_Test.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = My_Test.xcdatamodel; sourceTree = "<group>"; };
 		91FFBAB66059AEC98874122B /* Pods_My_TestUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_My_TestUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4440F609E480705B61F0A80 /* Pods_My_Test.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_My_Test.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -171,7 +169,6 @@
 			children = (
 				8F06A440210C8BB7008EEC9B /* ProgressBar */,
 				8FEB4FF9210C719800429DFE /* Project99.xcdatamodeld */,
-				8FEB4FF7210C6C3400429DFE /* GoogleService-Info.plist */,
 				8F28F12A2106FD30009D4CD1 /* NetworkLayer */,
 				8F28F0F92106FBA3009D4CD1 /* AppDelegate.swift */,
 				8F28F0FB2106FBA3009D4CD1 /* ViewController.swift */,
@@ -318,7 +315,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8F28F1072106FBA7009D4CD1 /* LaunchScreen.storyboard in Resources */,
-				8FEB4FF8210C6C3500429DFE /* GoogleService-Info.plist in Resources */,
 				8F06A444210C8E40008EEC9B /* P99ProgressLoader.xib in Resources */,
 				8F28F1042106FBA7009D4CD1 /* Assets.xcassets in Resources */,
 				8F28F0FF2106FBA3009D4CD1 /* Main.storyboard in Resources */,
